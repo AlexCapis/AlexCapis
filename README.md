@@ -2,7 +2,9 @@
 README de Alex Marzá Manuel
 
 -->
-## Hi, 👋 I'm [Alex Marzá!](https://www.linkedin.com/in/alex-marza-data-science/)
+
+## Hi, I'm [Alex Marza](https://www.linkedin.com/in/alex-marza-data-science/)
+
 
 <p align="center">
   <img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/presentation.gif">
