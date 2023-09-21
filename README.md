@@ -3,7 +3,7 @@ README de Alex Marzá Manuel
 
 -->
 
-## Hi, I'm [Alex Marza](https://www.linkedin.com/in/alex-marza-data-science/)
+## Hi, 👋 I'm Alex Marza
 
 
 <p align="center">
