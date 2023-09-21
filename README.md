@@ -6,7 +6,7 @@ README de Alex Marzá Manuel
 ## Hi 👋, I'm [Alex Marzá!](https://www.linkedin.com/in/alex-marza-data-science/)
 
 <p align="center">
-  <img src="assets/presentation.gif">
+  <img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/presentation.gif">
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marza-data-science/)
