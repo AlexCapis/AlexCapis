@@ -65,13 +65,15 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 
 
 
+
+
 ## ⭐ *Star* proyects
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Projects Power Bi</h3>
+<h3 align="center"><strong><span style="font-size: larger;">Projects Power Bi</span></strong></h3>
 <div align="center">
-<a href="https://github.com/AlexCapis/AlexCapis/blob/main/assets/powerbi.png" target="_blank"><img src="" width="500" alt="Projects Power Bi"></a>
+<a href="" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/raw/main/assets/powerbi.png" width="500" alt="Projects Power Bi"></a>
 <p>
 <a href="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI" target="_blank">
 <img src="https://img.shields.io/badge/Game sales-ff9?style=for-the-badge&logo=github&logoColor=black">
