@@ -64,6 +64,31 @@ I am committed to applying my knowledge and skills to solve real-world problems 
 If you have any questions, suggestions, or simply want to connect, feel free to reach out. I'm eager to network and collaborate with fellow professionals in this exciting field.
 
 
+
+## ⭐ *Star* proyects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Projects Power Bi</h3>
+<div align="center">
+<a href="https://github.com/AlexCapis/AlexCapis/blob/main/assets/powerbi.png" target="_blank"><img src="" width="500" alt="Projects Power Bi"></a>
+<p>
+<a href="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI" target="_blank">
+<img src="https://img.shields.io/badge/Game sales-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/AlexCapis/Indicadores-Mundiales-Mortalidad-Infantil-Esperanza-de-Vida-PowerBI" target="_blank">
+<img src="https://img.shields.io/badge/Population analysis-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/AlexCapis/Recursos-Humanos-PowerBI" target="_blank">
+<img src="https://img.shields.io/badge/Human resources-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>Improve your Power BI skills</strong> with these 3 projects - Learn different types of visualizations quickly and easily. <strong>Also, each project comes with detailed explanations</strong>, giving you a comprehensive understanding of how to use Power BI to get the most out of your data.</p>
+</div>
+                                                                    
+
+
+
 ##  📊GitHub Analytics
 
 <p align="center">
