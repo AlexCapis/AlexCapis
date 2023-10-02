@@ -68,12 +68,13 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 
 
 ## ⭐ *Star* proyects
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><strong><span style="font-size: larger;">Projects Power Bi</span></strong></h3>
+<h3 align="center"><strong><span style="font-size: larger;"> Power Bi Projects</span></strong></h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/raw/main/assets/powerbi.png" width="500" alt="Projects Power Bi"></a>
+<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/raw/main/assets/powerbi.png" width="400" alt="Projects Power Bi"></a>
 <p>
 <a href="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI" target="_blank">
 <img src="https://img.shields.io/badge/Game sales-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -88,6 +89,83 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <p><strong>Improve your Power BI skills</strong> with these 3 projects - Learn different types of visualizations quickly and easily. <strong>Also, each project comes with detailed explanations</strong>, giving you a comprehensive understanding of how to use Power BI to get the most out of your data.</p>
 </div>
                                                                     
+
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center"><strong><span style="font-size: larger;">Streamlit Projects</span></strong></h3>
+<div align="center">                                       
+<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src=" " width="400" alt="Projects Streamlit"></a>
+<br>
+<p>
+<a href="https://cv-alex-marza.streamlit.app/ " target="_blank">
+<img src="https://img.shields.io/badge/CV%20ONLINE-ff0000?style=for-the-badge&logo=github&logoColor=black"
+<a href=" https://alex-links-page.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/LINKS%20PAGE-ff0000?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Learn how to create web applications with <strong>STREAMLIT</strong> to showcase your project to others using a URL. In these projects, you will learn to create a <strong>DIGITAL CV</strong> and present your resume in a different way. Additionally, with <strong>LINKS PAGE</strong>, you will create a page where you can store all the links to introduce yourself.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center"><strong><span style="font-size: larger;">Random Projects</span></strong></h3>
+<div align="center">
+<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src=" "></a>
+<p>
+<a href="https://generador-claves.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/PASSWORDS-ffffff?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/AlexCapis/Proyecto-HEATLY---Aplicacion-Web-para-Olas-de-Calor " target="_blank">
+<img src="https://img.shields.io/badge/-HEALTHY-ffffff?style=for-the-badge&color=white">
+</a>
+<a href="https://github.com/AlexCapis/Corazon-Digital-Prediciendo-Enfermedades-Cardiacas-con-Machine-Learning" target="_blank">
+<img src="https://img.shields.io/badge/-HEAT%20DISEASES-ffffff?style=for-the-badge&color=white">
+</a>
+</p>
+<p>You will find various projects, from a <strong>PASSWORD GENERATOR</strong> that increases in complexity, to <strong>HEATLY</strong>, a web application for heat waves, and <strong>HEART DISEASE</strong>, where through machine learning, heart diseases are predicted.</p>
+</div>
+                                                                                      
+</td>                                                    
+</table>                                                                                 
+</div>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
