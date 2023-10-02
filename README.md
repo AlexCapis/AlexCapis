@@ -101,7 +101,8 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <br>
 <p>
 <a href="https://cv-alex-marza.streamlit.app/ " target="_blank">
-<img src="https://img.shields.io/badge/CV%20ONLINE-ff0000?style=for-the-badge&logo=github&logoColor=black"
+<img src="https://img.shields.io/badge/CV%20ONLINE-ff0000?style=for-the-badge&logo=github&logoColor=black">
+</a>
 <a href=" https://alex-links-page.streamlit.app/" target="_blank">
 <img src="https://img.shields.io/badge/LINKS%20PAGE-ff0000?style=for-the-badge&logo=github&logoColor=black">
 </a>
