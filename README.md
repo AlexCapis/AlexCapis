@@ -117,7 +117,7 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <td width="100%">
 <h3 align="center"><strong><span style="font-size: larger;">Random Projects</span></strong></h3>
 <div align="center">
-<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src=" "></a>
+<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/random.png"></a>
 <p>
 <a href="https://generador-claves.streamlit.app/" target="_blank">
 <img src="https://img.shields.io/badge/PASSWORDS-ffffff?style=for-the-badge&logo=github&logoColor=black">
