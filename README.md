@@ -97,7 +97,7 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
                <br>
 <h3 align="center"><strong><span style="font-size: larger;">Streamlit Projects</span></strong></h3>
 <div align="center">                                       
-<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src=" " width="400" alt="Projects Streamlit"></a>
+<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/streamlit.png " width="400" alt="Projects Streamlit"></a>
 <br>
 <p>
 <a href="https://cv-alex-marza.streamlit.app/ " target="_blank">
