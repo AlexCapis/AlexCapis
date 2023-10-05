@@ -74,7 +74,7 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <td width="50%">
 <h3 align="center"><strong><span style="font-size: larger;"> Power Bi Projects</span></strong></h3>
 <div align="center">
-<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/raw/main/assets/powerbi.png" width="400" alt="Projects Power Bi"></a>
+<a href="https://powerbi-projects.streamlit.app/" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/raw/main/assets/powerbi.png" width="400" alt="Projects Power Bi"></a>
 <p>
 <a href="https://github.com/AlexCapis/Ventas-Videojuegos-PowerBI" target="_blank">
 <img src="https://img.shields.io/badge/Game sales-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -97,13 +97,13 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
                <br>
 <h3 align="center"><strong><span style="font-size: larger;">Streamlit Projects</span></strong></h3>
 <div align="center">                                       
-<a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/streamlit.png " width="400" alt="Projects Streamlit"></a>
+<a href="https://cv-digital-alex.streamlit.app/~/+/" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/streamlit.png " width="400" alt="Projects Streamlit"></a>
 <br>
 <p>
-<a href="https://cv-alex-marza.streamlit.app/ " target="_blank">
+<a href="https://cv-digital-alex.streamlit.app/~/+/" target="_blank">
 <img src="https://img.shields.io/badge/CV%20ONLINE-ff0000?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href=" https://alex-links-page.streamlit.app/" target="_blank">
+<a href="https://alex-links-page.streamlit.app/" target="_blank">
 <img src="https://img.shields.io/badge/LINKS%20PAGE-ff0000?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -120,14 +120,14 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <div align="center">
 <a href="https://github.com/AlexCapis/AlexCapis" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/random.png" width="400" alt="Random Projects"></a> 
 <p>
-<a href="https://generador-claves.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/PASSWORDS-ffffff?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://pasodi-contrasenas.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-PASSWORDS-ffffff?style=for-the-badge&color=blue">
 </a>
-<a href="https://github.com/AlexCapis/Proyecto-HEATLY---Aplicacion-Web-para-Olas-de-Calor " target="_blank">
-<img src="https://img.shields.io/badge/-HEALTHY-ffffff?style=for-the-badge&color=white">
+<a href="https://heaty-aplicacion-web.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-HEATY-ffffff?style=for-the-badge&color=blue">
 </a>
-<a href="https://github.com/AlexCapis/Corazon-Digital-Prediciendo-Enfermedades-Cardiacas-con-Machine-Learning" target="_blank">
-<img src="https://img.shields.io/badge/-HEAT%20DISEASES-ffffff?style=for-the-badge&color=white">
+<a href="https://corazon-digital.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-HEART%20DISEASES-ffffff?style=for-the-badge&color=blue">
 </a>
 </p>
 <p>You will find various projects, from a <strong>PASSWORD GENERATOR</strong> that increases in complexity, to <strong>HEATLY</strong>, a web application for heat waves, and <strong>HEART DISEASE</strong>, where through machine learning, heart diseases are predicted.</p>
@@ -137,7 +137,6 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 </table>                                                                                 
 </div>
 <br>
-
 
 
 
