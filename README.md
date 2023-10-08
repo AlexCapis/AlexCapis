@@ -85,8 +85,11 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <a href="https://github.com/AlexCapis/Recursos-Humanos-PowerBI" target="_blank">
 <img src="https://img.shields.io/badge/Human resources-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+<a href="https://powerbi-projects.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/Finance-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 </p>
-<p><strong>Improve your Power BI skills</strong> with these 3 projects - Learn different types of visualizations quickly and easily. <strong>Also, each project comes with detailed explanations</strong>, giving you a comprehensive understanding of how to use Power BI to get the most out of your data.</p>
+<p>Improve your<strong> Power BI</strong> skills with these <strong>4 projects</strong>  - Learn different types of visualizations quickly and easily. Also, each project comes with<strong> detailed explanations</strong>, giving you a comprehensive understanding of how to use Power BI to get the most out of your data.</p>
 </div>
                                                                     
 
@@ -97,7 +100,7 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
                <br>
 <h3 align="center"><strong><span style="font-size: larger;">Streamlit Projects</span></strong></h3>
 <div align="center">                                       
-<a href="https://cv-digital-alex.streamlit.app/~/+/" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/streamlit.png " width="400" alt="Projects Streamlit"></a>
+<a href="https://cv-digital-alex.streamlit.app/~/+/" target="_blank"><img src="https://github.com/AlexCapis/AlexCapis/blob/main/assets/streamlit.png" width="400" alt="Projects Streamlit"></a>
 <br>
 <p>
 <a href="https://cv-digital-alex.streamlit.app/~/+/" target="_blank">
@@ -130,42 +133,13 @@ If you have any questions, suggestions, or simply want to connect, feel free to 
 <img src="https://img.shields.io/badge/-HEART%20DISEASES-ffffff?style=for-the-badge&color=blue">
 </a>
 </p>
-<p>You will find various projects, from a <strong>PASSWORD GENERATOR</strong> that increases in complexity, to <strong>HEATLY</strong>, a web application for heat waves, and <strong>HEART DISEASE</strong>, where through machine learning, heart diseases are predicted.</p>
+<p>You will find various projects, from a <strong>PASSWORD GENERATOR</strong> that increases in complexity, to <strong>HEATY</strong>, a web application for heat waves, and <strong>HEART DISEASE</strong>, where through machine learning, heart diseases are predicted.</p>
 </div>
                                                                                       
 </td>                                                    
 </table>                                                                                 
 </div>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
